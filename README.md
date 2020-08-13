@@ -1,3 +1,4 @@
+<img src="logo/ELEVEN.png" width="40%">
 
 **BEHAVER - Bistable Energy Harvester Bifurcations** is an easy to run code for bifurcation analysis of a bistable energy harvester system. 
 

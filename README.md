@@ -15,7 +15,7 @@ This code was developed to conduct bifurcation analysis on a bistable piezoelect
 - Vinicius Gonçalvez Lopes
 - Americo Cunha
 
-## Citing ELEVEN
+## Citing BEHAVER
 
 We kindly ask users to cite the following reference in any publications reporting work done with **BEHAVER**:
 - *V. G. Lopes, A. Cunha Jr, Bifurcation analysis on a nonlinear bistable energy harvester, 2020*

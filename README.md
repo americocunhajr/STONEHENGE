@@ -1,6 +1,6 @@
 <img src="logo/ELEVEN.png" width="40%">
 
-**STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is suite of easy to run codes for nonlinear dynamic analysis of energy harvester systems. 
+**STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy to run codes for nonlinear dynamic analysis of energy harvester systems. 
 
 ## Software History
 

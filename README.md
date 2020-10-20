@@ -28,6 +28,16 @@ We kindly ask users to cite the following reference in any publications reportin
 
 - 
 
+```
+@misc{COVID19RJGitHub,
+   title        = {{COVID19}: {O}bserva\'{o}rio {F}luminense},
+   year         = {2020},
+   publisher    = {GitHub},
+   journal      = {GitHub repository},
+   howpublished = {https://americocunhajr.github.io/COVID19RJ},
+}
+```
+
 ## License
 
 **STONEHENGE** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.

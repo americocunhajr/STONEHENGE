@@ -25,6 +25,7 @@ The underlying results are reported in the following paper:
 ## Citing STONEHENGE
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
+
 - 
 
 ## License

@@ -30,3 +30,7 @@ We kindly ask users to cite the following reference in any publications reportin
 ## License
 
 **STONEHENGE** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+
+## Funding
+
+The authors of this code received financial support, in various modalities, from the following funding agencies:

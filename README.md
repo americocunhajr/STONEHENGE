@@ -44,6 +44,4 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ## Funding
 
-The authors of this code received financial support, in various modalities, from the following funding agencies
-
 <img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">

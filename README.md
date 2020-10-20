@@ -7,7 +7,7 @@
 This suite is an ensemble of codes developed to conduct nonlinear analysis on a bistable piezoelectric-magneto-elastic energy harvester. 
 
 The underlying results are reported in the following paper:
-- *V. G. Lopes, A. Cunha Jr, Bifurcation analysis on a nonlinear bistable energy harvester, 2020*
+- 
 
 ## Documentation
 
@@ -15,7 +15,7 @@ The underlying results are reported in the following paper:
 
 ## Authors
 - Americo Cunha
-- Vinicius Gonçalvez Lopes
+- 
 - 
 - 
 - 
@@ -25,7 +25,7 @@ The underlying results are reported in the following paper:
 ## Citing STONEHENGE
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
-- *V. G. Lopes, A. Cunha Jr, Bifurcation analysis on a nonlinear bistable energy harvester, 2020*
+- 
 
 ## License
 

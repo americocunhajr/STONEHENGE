@@ -14,8 +14,13 @@ The underlying results are reported in the following paper:
 **STONEHENGE** modules are commented in order to explain their functionality to the final user. Each routine in the code has a short description about its purpose, and a list of inputs and/or outputs.
 
 ## Authors
-- Vinicius Gonçalvez Lopes
 - Americo Cunha
+- Vinicius Gonçalvez Lopes
+- 
+- 
+- 
+- 
+
 
 ## Citing STONEHENGE
 

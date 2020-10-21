@@ -7,6 +7,7 @@
 This suite is an ensemble of codes developed to conduct nonlinear analysis on a bistable piezoelectric-magneto-elastic energy harvester. 
 
 The underlying results are reported in the following paper:
+
 - 
 
 ## Documentation

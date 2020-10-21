@@ -16,11 +16,9 @@ The underlying results are reported in the following paper:
 
 ## Authors
 - Americo Cunha
-- 
-- 
-- 
-- 
-- 
+- João Pedro Canisso Valese Norenberg
+- João Victor Ligier Lopes Peterson
+- Vinicius Gonçalves Lopes
 
 
 ## Citing STONEHENGE

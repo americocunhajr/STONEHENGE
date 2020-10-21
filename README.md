@@ -35,7 +35,7 @@ We kindly ask users to cite the following reference in any publications reportin
    year         = {2020},
    publisher    = {GitHub},
    journal      = {GitHub repository},
-   howpublished = {https://americocunhajr.github.io/COVID19RJ},
+   howpublished = {https://americocunhajr.github.io/STONEHENGE},
 }
 ```
 

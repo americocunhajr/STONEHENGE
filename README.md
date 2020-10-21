@@ -30,8 +30,8 @@ We kindly ask users to cite the following reference in any publications reportin
 - 
 
 ```
-@misc{COVID19RJGitHub,
-   title        = {{COVID19}: {O}bserva\'{o}rio {F}luminense},
+@misc{STONEHENGE,
+   title        = {{STONEHENGE} - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
    year         = {2020},
    publisher    = {GitHub},
    journal      = {GitHub repository},

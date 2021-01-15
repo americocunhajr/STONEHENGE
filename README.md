@@ -29,7 +29,7 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ```
 @misc{STONEHENGE,
-   title        = {{STONEHENGE} - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
+   title        = {STONEHENGE - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
    year         = {2021},
    publisher    = {GitHub},
    journal      = {GitHub repository},

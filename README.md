@@ -7,7 +7,7 @@
 This suite is an ensemble of codes developed to conduct nonlinear analysis on a bistable piezoelectric-magneto-elastic energy harvester. 
 
 The underlying results are reported in the following paper:
-- *J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of bistable energy harveters, 2021*
+- *J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of (a)symmetric energy harvesters, 2021*
 
 ## Documentation
 

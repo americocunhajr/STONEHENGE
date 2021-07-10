@@ -24,7 +24,7 @@ The underlying results are reported in the following paper:
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
 
-- 
+- *J. P. Norenberg, R. Luo, V. G. Lopes, J. V. L. L. Peterson, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, 2021*
 
 ```
 @misc{STONEHENGE,

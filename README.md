@@ -17,6 +17,7 @@ The underlying results are reported in the following paper:
 - Americo Cunha Jr
 - João Pedro C. V. Norenberg
 - João Victor L. L. Peterson
+- Roberto Luo
 - Vinicius G. Lopes
 
 

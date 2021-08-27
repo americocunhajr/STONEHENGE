@@ -14,11 +14,12 @@ The underlying results are reported in the following paper:
 **STONEHENGE** modules are commented in order to explain their functionality to the final user. Each routine in the code has a short description about its purpose, and a list of inputs and/or outputs.
 
 ## Authors
-- Americo Cunha Jr
 - João Pedro C. V. Norenberg
 - João Victor L. L. Peterson
-- Roberto Luo
 - Vinicius G. Lopes
+- Roberto Luo
+- Marcelo Pereira
+- Americo Cunha Jr
 
 
 ## Citing STONEHENGE

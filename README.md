@@ -25,6 +25,7 @@ The underlying results are reported in the following publications:
 - João Victor L. L. Peterson
 - Vinicius G. Lopes
 - Roberto Luo
+- Leonardo de la Roca
 - Marcelo Pereira
 - Americo Cunha Jr
 
@@ -33,7 +34,7 @@ The underlying results are reported in the following publications:
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
 
-- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, M. Pereira, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, 2021*
+- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, 2021*
 
 ```
 @misc{STONEHENGE,

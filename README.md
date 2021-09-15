@@ -9,6 +9,7 @@ This suite is an ensemble of codes developed to conduct nonlinear analysis on a 
 The underlying results are reported in the following publications:
 - *J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of (a)symmetric energy harvesters, 2021*
 - *V. G. Lopes, J. V. L. L. Peterson, and A. Cunha Jr, The nonlinear dynamics of a bistable energy harvesting system with colored noise disturbances, Journal of Computational Interdisciplinary Sciences, vol. 10, pp. 125, 2019*
+- L. de la Roca, J. Peterson, M. Pereira, A. Cunha Jr, Control of chaos via OGY method on a bistable energy harvester, In: 25th International Congress of Mechanical Engineering (COBEM 2019), 2019, Uberlândia.
 - *V. Lopes, J. V. L. L. Peterson, and A. Cunha Jr, Nonlinear characterization of a bistable energy harvester dynamical system, Topics in Nonlinear Mechanics and Physics: Selected Papers from CSNDD 2018, Editor: M. Belhaq, Springer Singapore, pp.71-88, 2019*
 
 ## Documentation

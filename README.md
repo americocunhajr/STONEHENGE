@@ -6,8 +6,10 @@
 
 This suite is an ensemble of codes developed to conduct nonlinear analysis on a bistable piezoelectric-magneto-elastic energy harvester. 
 
-The underlying results are reported in the following paper:
+The underlying results are reported in the following publications:
 - *J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of (a)symmetric energy harvesters, 2021*
+- * V. G. Lopes, J. V. L. L. Peterson, and A. Cunha Jr, The nonlinear dynamics of a bistable energy harvesting system with colored noise disturbances, Journal of Computational Interdisciplinary Sciences, vol. 10, pp. 125, 2019*
+- *V. Lopes, J. V. L. L. Peterson, and A. Cunha Jr, Nonlinear characterization of a bistable energy harvester dynamical system, Topics in Nonlinear Mechanics and Physics: Selected Papers from CSNDD 2018, Editor: M. Belhaq, Springer Singapore, pp.71-88, 2019*
 
 ## Documentation
 
@@ -26,7 +28,7 @@ The underlying results are reported in the following paper:
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
 
-- *J. P. Norenberg, R. Luo, V. G. Lopes, J. V. L. L. Peterson, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, 2021*
+- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, M. Pereira, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, 2021*
 
 ```
 @misc{STONEHENGE,

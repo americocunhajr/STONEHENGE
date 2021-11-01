@@ -35,15 +35,14 @@ The underlying results are reported in the following publications:
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
 
-- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, 2021*
+- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, 2021*
 
 ```
 @misc{STONEHENGE,
    author.      = {J. P. Norenberg and J. V. L. L. Peterson and V. G. Lopes and R. Luo and L. de la Roca and M. Pereira and J. G. {Telles Ribeiro} and A. Cunha Jr},
    title        = { {STONEHENGE} - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
    year         = {2021},
-   publisher    = {GitHub},
-   journal      = {GitHub repository},
+   journal      = {Software Impacts},
    howpublished = {https://americocunhajr.github.io/STONEHENGE},
 }
 ```

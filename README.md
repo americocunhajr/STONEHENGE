@@ -4,8 +4,8 @@
 
 ## Reproducibility
 
-The results published with **STONEHENGE** are fully reproducible, as can be seen in the CodeOcean capsule below:
-https://codeocean.com/capsule/1031045/tree
+The results published with **STONEHENGE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/1031045/tree" target="_blank">CodeOcean capsule</a>.
+
 
 ## Documentation
 

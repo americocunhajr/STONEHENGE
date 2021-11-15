@@ -2,13 +2,14 @@
 
 **STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy-to-run codes for nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, control and visualize their dynamics, and provides a broad and robust framework for numerical experimentation.
 
-## Reproducibility
-
-Simulations done with **STONEHENGE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/1031045/tree" target="_blank">CodeOcean capsule</a>
-
 ## Documentation
 
 **STONEHENGE** modules are commented in order to explain their functionality to the final user. Each routine in the code has a short description about its purpose, and a list of inputs and/or outputs.
+
+
+## Reproducibility
+
+Simulations done with **STONEHENGE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/1031045/tree" target="_blank">CodeOcean capsule</a>
 
 
 ## Software History

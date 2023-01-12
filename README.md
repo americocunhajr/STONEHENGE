@@ -11,7 +11,7 @@
 This suite is an ensemble of codes developed to conduct nonlinear analysis on a bistable piezoelectric-magneto-elastic energy harvester. 
 
 The underlying results are reported in the following publications:
-- *J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of (a)symmetric energy harvesters, Preprint, 2021*
+- *J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of (a)symmetric energy harvesters, Nonlinear Dynamics, vol. 109, pp. 443-458, 2022*
 - *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, vol. 10 pp. 100161, 2021*
 - *V. G. Lopes, J. V. L. L. Peterson, and A. Cunha Jr, The nonlinear dynamics of a bistable energy harvesting system with colored noise disturbances, Journal of Computational Interdisciplinary Sciences, vol. 10, pp. 125, 2019*
 - *L. de la Roca, J. Peterson, M. Pereira, A. Cunha Jr, Control of chaos via OGY method on a bistable energy harvester, In: 25th ABCM International Congress of Mechanical Engineering (COBEM 2019), Uberlândia, Brazil, 2019*
@@ -38,11 +38,11 @@ Simulations done with **STONEHENGE** are fully reproducible, as can be seen on t
 
 We kindly ask users to cite the following reference in any publications reporting work done with **STONEHENGE**:
 
-- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, vol. 10 pp. 100161, 2021* http://dx.doi.org/10.1016/j.simpa.2021.100161
+- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, 10:100161, 2021 http://dx.doi.org/10.1016/j.simpa.2021.100161*
 
 ```
-@misc{STONEHENGE,
-   author.      = {J. P. Norenberg and J. V. L. L. Peterson and V. G. Lopes and R. Luo and L. de la Roca and M. Pereira and J. G. {Telles Ribeiro} and A. Cunha Jr},
+@article{STONEHENGE2021,
+   author       = {J. P. Norenberg and J. V. L. L. Peterson and V. G. Lopes and R. Luo and L. de la Roca and M. Pereira and J. G. {Telles Ribeiro} and A. Cunha Jr},
    title        = { {STONEHENGE} - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
    year         = {2021},
    journal      = {Software Impacts},

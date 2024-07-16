@@ -1,6 +1,6 @@
 <img src="logo/STONEHENGE.png" width="40%">
 
-**STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy-to-run Matlab and C++ codes for the nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, control, and visualize their dynamics, providing a broad and robust framework for numerical experimentation.
+**STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy-to-run Matlab and C++ codes for the nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, optimize, control, and visualize their dynamics, providing a broad and robust framework for numerical experimentation.
 
 ## Table of Contents
 - [Overview](#overview)

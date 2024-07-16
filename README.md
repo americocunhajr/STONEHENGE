@@ -92,8 +92,7 @@ For any questions or further information, please contact the authors at:
 - Americo Cunha Jr: americo.cunha@uerj.br
 
 ## References using STONEHENGE
-
-The following references used STONEHENGE to obtain their results. If you want to see your publication listed here, please contact us.
+The following references used **STONEHENGE** to obtain their results. If you want to see your publication listed here, please contact us.
 
 - **J. P. Norenberg, and A. Cunha Jr**, *Vibration mitigation and energy harvesting with bistable resonators in metamaterial beams*, In: 27th International Congress on Mechanical Engineering (COBEM 2023), Florianópolis. Proceedings of COBEM 2023, 2023.
 

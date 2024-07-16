@@ -90,3 +90,8 @@ If you use **STONEHENGE** in your research, please cite the following publicatio
 ## Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+
+For any questions or further information, please contact the authors at:
+
+- João Pedro C. V. Norenberg: jpcvalese@gmail.com
+- Americo Cunha Jr: americo.cunha@uerj.br

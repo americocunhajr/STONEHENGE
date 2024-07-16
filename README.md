@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Reproducibility](#reproducibility)
@@ -32,6 +31,19 @@
 - Simulation, optimization, control, and visualization tools
 - Robust framework for numerical experimentation
 - Fully reproducible simulations
+
+## Usage
+To get started with **STONEHENGE**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/STONEHENGE.git
+   ```
+2. Navigate to the package directory:
+   ```bash
+   cd STONEHENGE/STONEHENGE-1.0
+   ```
+
+**STONEHENGE** can be used to simulate, optimize, control, and visualize the dynamics of bistable piezoelectric-magneto-elastic energy harvesters. Detailed usage instructions and examples are provided within the code comments and the provided documentation.
 
 ## Documentation
 The routines in **STONEHENGE** are well-commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs. Detailed documentation can be found within the code comments. An user-manual is available showing the package functionalities.

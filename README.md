@@ -1,8 +1,8 @@
-<img src="logo/STONEHENGE.png" width="40%">
+## Suite for Nonlinear Analysis of Energy Harvesting Systems
 
 **STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy-to-run Matlab and C++ codes for the nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, optimize, control, and visualize their dynamics, providing a broad and robust framework for numerical experimentation.
 
-## Table of Contents
+### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
@@ -16,17 +16,17 @@
 - [Contact](#contact)
 - [References using STONEHENGE](#references-using-stonehenge)
 
-## Overview
+### Overview
 **STONEHENGE** was developed to conduct nonlinear analysis on bistable piezoelectric-magneto-elastic energy harvesters. The code functionalities are reported in the following publication:
-- **J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr**, *STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems*, Software Impacts, vol. 10, pp. 100161, 2021.
+- **J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr**, *STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems*, Software Impacts, vol. 10, pp. 100161, 2021. <a href="http://dx.doi.org/10.1016/j.simpa.2021.100161" target="_blank">DOI</a>
 
-## Features
+### Features
 - Comprehensive nonlinear dynamic analysis of energy harvesting systems
 - Simulation, optimization, control, and visualization tools
 - Robust framework for numerical experimentation
 - Fully reproducible simulations
 
-## Usage
+### Usage
 To get started with **STONEHENGE**, follow these steps:
 1. Clone the repository:
    ```bash
@@ -39,13 +39,13 @@ To get started with **STONEHENGE**, follow these steps:
 
 **STONEHENGE** can be used to simulate, optimize, control, and visualize the dynamics of bistable piezoelectric-magneto-elastic energy harvesters. Detailed usage instructions and examples are provided within the code comments and the provided documentation.
 
-## Documentation
+### Documentation
 The routines in **STONEHENGE** are well-commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs. Detailed documentation can be found within the code comments. An user-manual is available showing the package functionalities.
 
-## Reproducibility
+### Reproducibility
 Simulations done with **STONEHENGE** are fully reproducible. You can find a fully reproducible capsule of the simulations on <a href="https://codeocean.com/capsule/4891890/tree/v1" target="_blank">CodeOcean</a>.
 
-## Authors
+### Authors
 - João Pedro C. V. Norenberg
 - João Victor L. L. Peterson
 - Vinicius G. Lopes
@@ -55,7 +55,7 @@ Simulations done with **STONEHENGE** are fully reproducible. You can find a full
 - José Geraldo Telles Ribeiro
 - Americo Cunha Jr
 
-## Citing STONEHENGE
+### Citing STONEHENGE
 If you use **STONEHENGE** in your research, please cite the following publication:
 - *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, 10:100161, 2021 http://dx.doi.org/10.1016/j.simpa.2021.100161*
 
@@ -67,31 +67,31 @@ If you use **STONEHENGE** in your research, please cite the following publicatio
    journal      = {Software Impacts},
    volume.      = {10},
    pages        = {100161},
-   note         = {http://dx.doi.org/10.1016/j.simpa.2021.100161},
+   note         = {10.1016/j.simpa.2021.100161},
 }
 ```
 
-## License
+### License
 
 **STONEHENGE** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="10%"> 
 
-## Institutional support
+### Institutional support
 
 <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.png" width="20%">
 
-## Funding
+### Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
 
-## Contact
+### Contact
 For any questions or further information, please contact the authors at:
 
 - João Pedro C. V. Norenberg: jpcvalese@gmail.com
 - Americo Cunha Jr: americo.cunha@uerj.br
 
-## References using STONEHENGE
+### References using STONEHENGE
 The following references used **STONEHENGE** to obtain their results. If you want to see your publication listed here, please contact us.
 
 - **J. P. Norenberg, and A. Cunha Jr**, *Vibration mitigation and energy harvesting with bistable resonators in metamaterial beams*, In: 27th International Congress on Mechanical Engineering (COBEM 2023), Florianópolis. Proceedings of COBEM 2023, 2023.

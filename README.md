@@ -11,7 +11,7 @@
 - [Authors](#authors)
 - [Citing STONEHENGE](#citing-stonehenge)
 - [License](#license)
-- [Institutional Support](#institutional-support)
+- [Institutional support](#institutional-support)
 - [Funding](#funding)
 - [Contact](#contact)
 - [References using STONEHENGE](#references-using-stonehenge)

@@ -30,7 +30,7 @@
 To get started with **STONEHENGE**, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/STONEHENGE.git
+   git clone https://github.com/americocunhajr/STONEHENGE.git
    ```
 2. Navigate to the package directory:
    ```bash

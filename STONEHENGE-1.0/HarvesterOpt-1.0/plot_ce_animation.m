@@ -1,7 +1,6 @@
-
 % -----------------------------------------------------------------
-%  plot_ce_animation_video.m
-%
+%  plot_ce_animation.m
+% -----------------------------------------------------------------
 %  This functions plots an animation of cross-entropy method
 %  for optimization
 %
@@ -12,29 +11,27 @@
 %  xref    - reference value for x
 %  yref    - reference value for y
 %  vtitle  - video title
-%  vname   - video file name
 %  xlab    - x axis label
 %  ylab    - y axis label
 %  xmin    - x axis minimum value
 %  xmax    - x axis maximum value
 %  ymin    - y axis minimum value
 %  ymax    - y axis maximum value
-% ----------------------------------------------------------------- 
-%  programmer: Americo Barbosa da Cunha Junior
-%              americo.cunhajr@gmail.com
+% -----------------------------------------------------------------
+%  programmer: Americo Cunha
+%              americo.cunha@uerj.br
 %
-%  last update: Feb 10, 2016
+%  last update: October 4, 2020
 % -----------------------------------------------------------------
 
 % -----------------------------------------------------------------
-function mov = plot_ce_animation_video(x1,y1,itervec,...
-                                 xref,yref,vtitle,vname,...
-                                 xlab,ylab,xmin,xmax,ymin,ymax)
+function mov = plot_ce_animation(x1,y1,itervec,xref,yref,...
+                           vtitle,xlab,ylab,xmin,xmax,ymin,ymax)
     
     % check number of arguments
-    if nargin < 13
+    if nargin < 12
         error('Too few inputs.')
-    elseif nargin > 13
+    elseif nargin > 12
         error('Too many inputs.')
     end
 
@@ -49,15 +46,6 @@ function mov = plot_ce_animation_video(x1,y1,itervec,...
     
     % number of iterations
     Niter = length(itervec);
-    
-    % open video object
-    writerObj = VideoWriter(vname);
-    writerObj.FrameRate = 1;
-    open(writerObj);
-
-    % preallocate memory for movie frames
-    nFrames = length(1:Niter);
-    mov(1:nFrames) = struct('cdata',[], 'colormap',[]);
 
     % loop to construct the video
     for n=1:Niter
@@ -69,7 +57,7 @@ function mov = plot_ce_animation_video(x1,y1,itervec,...
         set(gcf,'color','white');
         set(gca,'XColor',[.3 .3 .3],'YColor',[.3 .3 .3],'zColor',[.3 .3 .3]);
         set(gca,'FontName','Helvetica');
-        set(gca,'FontSize',16);
+        set(gca,'FontSize',18);
         set(gca,'Box','on');
         
         % draw trailer base right arm
@@ -105,17 +93,15 @@ function mov = plot_ce_animation_video(x1,y1,itervec,...
         hold off
         
         % define video title
-        title(vtitle,'FontSize',20,'FontName','Helvetica');
-
-        % save movie frame
-        mov(n) = getframe(gcf);
-        writeVideo(writerObj,mov(n));
+        title(vtitle,'FontSize',16,'FontName','Helvetica');
+        
+        gname = ['animation_',num2str(n)];
+        saveas(gcf,gname,'epsc2');
+        gname = [gname, '.eps'];
         
         pause(1.5)
+        %pause
     end
-    
-    % close movie object
-    close(writerObj);
 return
 % -----------------------------------------------------------------
 

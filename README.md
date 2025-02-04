@@ -71,7 +71,8 @@ If you use **STONEHENGE** in your research, please cite the following publicatio
    journal      = {Software Impacts},
    volume.      = {10},
    pages        = {100161},
-   note         = {10.1016/j.simpa.2021.100161},
+   doi          = {10.1016/j.simpa.2021.100161},
+   url          = {https://stonehengesuite.org},
 }
 ```
 

@@ -88,7 +88,7 @@ If you use **STONEHENGE** in your research, please cite the following publicatio
 
 ### Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.png" width="25%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
 
 ### Contact
 For any questions or further information, please contact the authors at:

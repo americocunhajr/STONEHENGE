@@ -94,7 +94,7 @@ If you use **STONEHENGE** in your research, please cite the following publicatio
 For any questions or further information, please contact the authors at:
 
 - João Pedro C. V. Norenberg: jpcvalese@gmail.com
-- Americo Cunha Jr: americo.cunha@uerj.br
+- Americo Cunha Jr: americo@lncc.br
 
 ### References using STONEHENGE
 The following references used **STONEHENGE** to obtain their results. If you want to see your publication listed here, please contact us.

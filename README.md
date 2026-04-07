@@ -84,7 +84,7 @@ If you use **STONEHENGE** in your research, please cite the following publicatio
 
 ### Institutional support
 
-<img src="logo/logo_uerj.png" width="10%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.png" width="20%">
+<img src="logo/logo_uerj.png" width="10%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.png" width="20%"> &nbsp; &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%">
 
 ### Funding
 

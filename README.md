@@ -61,15 +61,15 @@ Simulations done with **STONEHENGE** are fully reproducible. You can find a full
 
 ### Citing STONEHENGE
 If you use **STONEHENGE** in your research, please cite the following publication:
-- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, 10:100161, 2021 http://dx.doi.org/10.1016/j.simpa.2021.100161*
+> **J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr**, *STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems*, Software Impacts, **10**, 100161 (2021). [DOI](https://doi.org/10.1016/j.simpa.2021.100161)
 
-```
+```bibtex
 @article{STONEHENGE2021,
    author       = {J. P. Norenberg and J. V. L. L. Peterson and V. G. Lopes and R. Luo and L. de la Roca and M. Pereira and J. G. {Telles Ribeiro} and A. Cunha Jr},
    title        = { {STONEHENGE} - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
    year         = {2021},
    journal      = {Software Impacts},
-   volume.      = {10},
+   volume       = {10},
    pages        = {100161},
    doi          = {10.1016/j.simpa.2021.100161},
    url          = {https://stonehengesuite.org},

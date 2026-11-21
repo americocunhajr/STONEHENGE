@@ -1,0 +1,456 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================================================
+   STONEHENGE — GitHub-inspired dark theme (matched to GaussMap)
+   ========================================================= */
+
+:root {
+  --bg:          #0d1117;
+  --panel:       #161b22;
+  --panel-hover: #21262d;
+  --border:      #30363d;
+
+  --text:        #c9d1d9;
+  --code-text:   #e6edf3;
+  --muted:       #8b949e;
+  --heading:     #f0f6fc;
+
+  --link:        #58a6ff;
+  --link-hover:  #79c0ff;
+
+  --accent:      #f8516c;
+}
+
+
+/* =========================================================
+   Main page
+   ========================================================= */
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+p,
+li {
+  color: var(--text);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading);
+}
+
+/* Main GaussMap title */
+h1 {
+  color: var(--accent);
+}
+
+strong {
+  color: var(--heading);
+}
+
+small {
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   Links
+   ========================================================= */
+
+a {
+  color: var(--link);
+}
+
+a:hover,
+a:focus {
+  color: var(--link-hover);
+}
+
+
+/* =========================================================
+   Download ZIP / TAR / GitHub buttons
+   ========================================================= */
+
+ul.downloads {
+  background: var(--panel) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 7px;
+  overflow: hidden;
+  box-shadow: none;
+}
+
+ul.downloads li {
+  background: transparent !important;
+  border-right: 1px solid var(--border) !important;
+}
+
+ul.downloads li:last-child {
+  border-right: none !important;
+}
+
+ul.downloads li a {
+  background: var(--panel) !important;
+  color: var(--muted) !important;
+
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+}
+
+ul.downloads li a strong {
+  color: var(--code-text) !important;
+  font-weight: 600;
+}
+
+ul.downloads li a:hover,
+ul.downloads li a:focus {
+  background: var(--panel-hover) !important;
+  color: var(--link) !important;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+ul.downloads li a:hover strong,
+ul.downloads li a:focus strong {
+  color: var(--link) !important;
+}
+
+ul.downloads li a:active {
+  background: var(--border) !important;
+}
+
+
+/* =========================================================
+   Inline code
+   ========================================================= */
+
+p code,
+li code,
+td code {
+  background: var(--panel-hover);
+  color: var(--code-text);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.15em 0.35em;
+}
+
+
+/* =========================================================
+   Code blocks
+   ========================================================= */
+
+pre {
+  background: var(--panel) !important;
+  color: var(--code-text);
+  border: 1px solid var(--border) !important;
+  border-radius: 6px;
+  padding: 16px;
+  overflow-x: auto;
+}
+
+pre code {
+  background: transparent !important;
+  color: inherit;
+  border: 0;
+  padding: 0;
+}
+
+
+/* =========================================================
+   Jekyll / Rouge syntax highlighting
+   Colors based on GitHub Dark
+   ========================================================= */
+
+.highlight,
+div.highlight,
+.highlight pre,
+pre.highlight {
+  background: var(--panel) !important;
+  color: var(--code-text);
+}
+
+div.highlight {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 16px 0;
+}
+
+.highlight pre {
+  border: 0 !important;
+  border-radius: 0;
+  margin: 0;
+  padding: 16px;
+}
+
+.highlight code {
+  background: transparent !important;
+  color: inherit;
+  border: 0;
+  padding: 0;
+}
+
+
+/* =========================================================
+   Monospace typography
+   ========================================================= */
+
+pre,
+pre code,
+.highlight,
+.highlight code {
+  font-family:
+    ui-monospace,
+    SFMono-Regular,
+    "SF Mono",
+    Menlo,
+    Monaco,
+    Consolas,
+    "Liberation Mono",
+    "Courier New",
+    monospace;
+
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+
+/* =========================================================
+   Syntax colors — GitHub Dark
+   ========================================================= */
+
+/* Plain text / punctuation */
+
+.highlight .n,
+.highlight .p,
+.highlight .w {
+  color: #e6edf3 !important;
+}
+
+
+/* Comments */
+
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cp,
+.highlight .cs {
+  color: #8b949e !important;
+}
+
+
+/* Keywords */
+
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt {
+  color: #ff7b72 !important;
+}
+
+
+/* Strings */
+
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+.highlight .sr,
+.highlight .ss {
+  color: #a5d6ff !important;
+}
+
+
+/* Functions */
+
+.highlight .nf,
+.highlight .fm {
+  color: #d2a8ff !important;
+}
+
+
+/* Attributes / properties */
+
+.highlight .na,
+.highlight .nl {
+  color: #79c0ff !important;
+}
+
+
+/* Shell built-ins: cd, printf, etc. */
+
+.highlight .nb,
+.highlight .bp {
+  color: #79c0ff !important;
+}
+
+
+/* Variables / constants */
+
+.highlight .nv,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi,
+.highlight .no {
+  color: #ffa657 !important;
+}
+
+
+/* Numbers */
+
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il {
+  color: #79c0ff !important;
+}
+
+
+/* Operators */
+
+.highlight .o,
+.highlight .ow {
+  color: #ff7b72 !important;
+}
+
+
+/* Classes / namespaces */
+
+.highlight .nc,
+.highlight .nn {
+  color: #ffa657 !important;
+}
+
+
+/* Tags / BibTeX entry types */
+
+.highlight .nt {
+  color: #7ee787 !important;
+}
+
+
+/* Labels */
+
+.highlight .nt,
+.highlight .nd {
+  color: #d2a8ff !important;
+}
+
+
+/* BibTeX fields / symbols */
+
+.highlight .na {
+  color: #79c0ff !important;
+}
+
+
+/* Generic emphasis */
+
+.highlight .ge {
+  font-style: italic;
+}
+
+.highlight .gs {
+  font-weight: bold;
+}
+
+
+/* Errors */
+
+.highlight .err {
+  color: #f85149 !important;
+  background: transparent !important;
+}
+
+
+/* =========================================================
+   Scrollbars inside code boxes
+   ========================================================= */
+
+pre,
+.highlight pre {
+  scrollbar-color: #484f58 var(--panel);
+  scrollbar-width: thin;
+}
+
+pre::-webkit-scrollbar,
+.highlight pre::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+
+pre::-webkit-scrollbar-track,
+.highlight pre::-webkit-scrollbar-track {
+  background: var(--panel);
+}
+
+pre::-webkit-scrollbar-thumb,
+.highlight pre::-webkit-scrollbar-thumb {
+  background: #484f58;
+  border-radius: 4px;
+}
+
+pre::-webkit-scrollbar-thumb:hover,
+.highlight pre::-webkit-scrollbar-thumb:hover {
+  background: #6e7681;
+}
+
+
+/* =========================================================
+   Blockquotes
+   ========================================================= */
+
+blockquote {
+  color: var(--muted);
+  border-left-color: var(--border);
+}
+
+blockquote p {
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   Tables
+   ========================================================= */
+
+table {
+  color: var(--text);
+}
+
+th,
+td {
+  border-bottom-color: var(--border);
+}
+
+
+/* =========================================================
+   Separators
+   ========================================================= */
+
+hr {
+  background: var(--border);
+  border: 0;
+  height: 1px;
+}

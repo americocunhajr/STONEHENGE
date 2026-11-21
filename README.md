@@ -1,6 +1,6 @@
 ## Suite for Nonlinear Analysis of Energy Harvesting Systems
 
-**STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy-to-run Matlab and C++ codes for the nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, optimize, control, and visualize their dynamics, providing a broad and robust framework for numerical experimentation.
+**STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems** is an ensemble of easy-to-run MATLAB, C++, and Python codes for the nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, optimize, control, and visualize their dynamics, providing a broad and robust framework for numerical experimentation.
 
 <p align="center">
 <img src="logo/STONEHENGE-Modules.png" width="60%">
@@ -9,6 +9,7 @@
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [HarmonicGaussian module](#harmonicgaussian-module)
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Reproducibility](#reproducibility)
@@ -29,6 +30,26 @@
 - Simulation, optimization, control, and visualization tools
 - Robust framework for numerical experimentation
 - Fully reproducible simulations
+
+### HarmonicGaussian module
+
+The [**HarmonicGaussian**](HarmonicGaussian/) Python module accompanies the research
+*Harmonic-Gaussian vibration energy harvesting* (A. Cunha Jr, P. Wolszczak, and G. Litak).
+It includes the reusable nonlinear oscillator library, numerical continuation and Floquet
+analysis, basin and capture simulations, the 23 computation workflows, all ten manuscript
+figures, archived datasets, and regression tests.
+
+To reproduce the results after cloning the repository:
+
+```bash
+cd STONEHENGE/HarmonicGaussian
+python -m pip install -r requirements.txt
+python -m pytest -q tests
+python run_all.py figures
+```
+
+See the [HarmonicGaussian README](HarmonicGaussian/README.md) for dataset generation,
+numerical checks, and the remaining reproduction commands.
 
 ### Usage
 To get started with **STONEHENGE**, follow these steps:

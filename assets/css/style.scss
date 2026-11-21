@@ -4,24 +4,24 @@
 @import "{{ site.theme }}";
 
 /* =========================================================
-   STONEHENGE — GitHub-inspired dark theme (matched to GaussMap)
+   STONEHENGE — GitHub Dark Dimmed palette
    ========================================================= */
 
 :root {
-  --bg:          #0d1117;
-  --panel:       #161b22;
-  --panel-hover: #21262d;
-  --border:      #30363d;
+  --bg:          #22272e;
+  --panel:       #2d333b;
+  --panel-hover: #373e47;
+  --border:      #444c56;
 
-  --text:        #c9d1d9;
-  --code-text:   #e6edf3;
-  --muted:       #8b949e;
-  --heading:     #f0f6fc;
+  --text:        #adbac7;
+  --code-text:   #cdd9e5;
+  --muted:       #768390;
+  --heading:     #cdd9e5;
 
-  --link:        #58a6ff;
-  --link-hover:  #79c0ff;
+  --link:        #539bf5;
+  --link-hover:  #6cb6ff;
 
-  --accent:      #f8516c;
+  --accent:      #f47067;
 }
 
 
@@ -48,7 +48,7 @@ h6 {
   color: var(--heading);
 }
 
-/* Main GaussMap title */
+/* Main STONEHENGE title */
 h1 {
   color: var(--accent);
 }
@@ -233,7 +233,7 @@ pre code,
 .highlight .n,
 .highlight .p,
 .highlight .w {
-  color: #e6edf3 !important;
+  color: #cdd9e5 !important;
 }
 
 
@@ -244,7 +244,7 @@ pre code,
 .highlight .cm,
 .highlight .cp,
 .highlight .cs {
-  color: #8b949e !important;
+  color: #768390 !important;
 }
 
 
@@ -291,7 +291,7 @@ pre code,
 
 .highlight .na,
 .highlight .nl {
-  color: #79c0ff !important;
+  color: #6cb6ff !important;
 }
 
 
@@ -299,7 +299,7 @@ pre code,
 
 .highlight .nb,
 .highlight .bp {
-  color: #79c0ff !important;
+  color: #6cb6ff !important;
 }
 
 
@@ -323,7 +323,7 @@ pre code,
 .highlight .mi,
 .highlight .mo,
 .highlight .il {
-  color: #79c0ff !important;
+  color: #6cb6ff !important;
 }
 
 
@@ -361,7 +361,7 @@ pre code,
 /* BibTeX fields / symbols */
 
 .highlight .na {
-  color: #79c0ff !important;
+  color: #6cb6ff !important;
 }
 
 
@@ -390,7 +390,7 @@ pre code,
 
 pre,
 .highlight pre {
-  scrollbar-color: #484f58 var(--panel);
+  scrollbar-color: #545d68 var(--panel);
   scrollbar-width: thin;
 }
 
@@ -407,13 +407,13 @@ pre::-webkit-scrollbar-track,
 
 pre::-webkit-scrollbar-thumb,
 .highlight pre::-webkit-scrollbar-thumb {
-  background: #484f58;
+  background: #545d68;
   border-radius: 4px;
 }
 
 pre::-webkit-scrollbar-thumb:hover,
 .highlight pre::-webkit-scrollbar-thumb:hover {
-  background: #6e7681;
+  background: #768390;
 }
 
 

@@ -1,0 +1,74 @@
+Peak and fold of the Gaussian interwell branch (lambda = 0.05)
+xi=0.005
+  f=0.05    W_peak=1.005409 Pe_peak=1.2211e-02 A_peak=   4.440 W_fold=1.00613 W_low=0.3889 (+1)
+  f=0.0618  W_peak=1.008751 Pe_peak=1.8566e-02 A_peak=   5.466 W_fold=1.01009 W_low=0.3981 (+1)
+  f=0.0764  W_peak=1.010480 Pe_peak=2.8302e-02 A_peak=   6.744 W_fold=1.01283 W_low=0.4139 (+1)
+  f=0.0944  W_peak=1.011377 Pe_peak=4.3152e-02 A_peak=   8.323 W_fold=1.01522 W_low=0.4278 (+1)
+  f=0.1167  W_peak=1.011847 Pe_peak=6.5901e-02 A_peak=  10.284 W_fold=1.01774 W_low=0.4430 (+1)
+  f=0.1442  W_peak=1.012094 Pe_peak=1.0058e-01 A_peak=  12.703 W_fold=1.02072 W_low=0.4646 (+1)
+  f=0.1783  W_peak=1.012224 Pe_peak=1.5375e-01 A_peak=  15.704 W_fold=1.02448 W_low=0.4736 (+1)
+  f=0.2203  W_peak=1.012292 Pe_peak=2.3469e-01 A_peak=  19.402 W_fold=1.02937 W_low=0.3513 (PD)
+  f=0.2723  W_peak=1.012328 Pe_peak=3.5853e-01 A_peak=  23.981 W_fold=1.03587 W_low=0.5171 (+1)
+  f=0.3366  W_peak=1.012347 Pe_peak=5.4784e-01 A_peak=  29.643 W_fold=1.04452 W_low=0.5358 (+1)
+  f=0.416   W_peak=1.012357 Pe_peak=8.3676e-01 A_peak=  36.634 W_fold=1.05608 W_low=0.5325 (PD)
+  f=0.5142  W_peak=1.012363 Pe_peak=1.2784e+00 A_peak=  45.282 W_fold=1.07139 W_low=0.5478 (+1)
+  f=0.6355  W_peak=1.012365 Pe_peak=1.9527e+00 A_peak=  55.964 W_fold=1.09155 W_low=0.5808 (+1)
+  f=0.7855  W_peak=1.012367 Pe_peak=2.9833e+00 A_peak=  69.173 W_fold=1.11842 W_low=0.5690 (+1)
+  f=0.9709  W_peak=1.012368 Pe_peak=4.5578e+00 A_peak=  85.499 W_fold=1.15313 W_low=0.5783 (+1)
+  f=1.2     W_peak=1.012368 Pe_peak=6.9626e+00 A_peak= 105.682 W_fold=1.19887 W_low=0.5744 (PD)
+xi=0.01
+  f=0.05    W_peak=0.961545 Pe_peak=3.6551e-03 A_peak=   2.470 W_fold=0.96130 W_low=0.3838 (+1)
+  f=0.0618  W_peak=0.986093 Pe_peak=5.3792e-03 A_peak=   2.971 W_fold=0.98678 W_low=nan (none)
+  f=0.0764  W_peak=0.998814 Pe_peak=8.0620e-03 A_peak=   3.618 W_fold=1.00014 W_low=0.4143 (+1)
+  f=0.0944  W_peak=1.005310 Pe_peak=1.2183e-02 A_peak=   4.435 W_fold=1.00777 W_low=0.4264 (+1)
+  f=0.1167  W_peak=1.008663 Pe_peak=1.8518e-02 A_peak=   5.459 W_fold=1.01301 W_low=0.4438 (+1)
+  f=0.1442  W_peak=1.010395 Pe_peak=2.8193e-02 A_peak=   6.731 W_fold=1.01751 W_low=0.4608 (+1)
+  f=0.1783  W_peak=1.011299 Pe_peak=4.3038e-02 A_peak=   8.312 W_fold=1.02223 W_low=0.4781 (+1)
+  f=0.2203  W_peak=1.011771 Pe_peak=6.5649e-02 A_peak=  10.264 W_fold=1.02774 W_low=0.4832 (PD)
+  f=0.2723  W_peak=1.012018 Pe_peak=1.0026e-01 A_peak=  12.682 W_fold=1.03466 W_low=0.5067 (+1)
+  f=0.3366  W_peak=1.012149 Pe_peak=1.5316e-01 A_peak=  15.674 W_fold=1.04367 W_low=0.5175 (+1)
+  f=0.416   W_peak=1.012218 Pe_peak=2.3391e-01 A_peak=  19.370 W_fold=1.05533 W_low=0.5332 (+1)
+  f=0.5142  W_peak=1.012254 Pe_peak=3.5736e-01 A_peak=  23.941 W_fold=1.07081 W_low=0.5677 (+1)
+  f=0.6355  W_peak=1.012273 Pe_peak=5.4583e-01 A_peak=  29.588 W_fold=1.09134 W_low=0.5708 (+1)
+  f=0.7855  W_peak=1.012283 Pe_peak=8.3389e-01 A_peak=  36.572 W_fold=1.11780 W_low=0.5732 (PD)
+  f=0.9709  W_peak=1.012289 Pe_peak=1.2740e+00 A_peak=  45.203 W_fold=1.15282 W_low=0.6035 (+1)
+  f=1.2     W_peak=1.012291 Pe_peak=1.9461e+00 A_peak=  55.869 W_fold=1.19842 W_low=0.5962 (+1)
+xi=0.02
+  f=0.05    no interwell orbit
+  f=0.0618  no interwell orbit
+  f=0.0764  W_peak=0.912170 Pe_peak=2.4691e-03 A_peak=   2.057 W_fold=0.91161 W_low=0.4081 (+1)
+  f=0.0944  W_peak=0.957161 Pe_peak=3.4963e-03 A_peak=   2.418 W_fold=0.95819 W_low=0.4284 (+1)
+  f=0.1167  W_peak=0.983499 Pe_peak=5.1177e-03 A_peak=   2.900 W_fold=0.98596 W_low=0.4401 (+1)
+  f=0.1442  W_peak=0.997287 Pe_peak=7.6390e-03 A_peak=   3.524 W_fold=1.00171 W_low=0.4607 (+1)
+  f=0.1783  W_peak=1.004389 Pe_peak=1.1541e-02 A_peak=   4.318 W_fold=1.01224 W_low=0.4767 (+1)
+  f=0.2203  W_peak=1.008036 Pe_peak=1.7508e-02 A_peak=   5.309 W_fold=1.02098 W_low=0.4927 (+1)
+  f=0.2723  W_peak=1.009928 Pe_peak=2.6660e-02 A_peak=   6.546 W_fold=1.02988 W_low=0.5120 (+1)
+  f=0.3366  W_peak=1.010914 Pe_peak=4.0665e-02 A_peak=   8.080 W_fold=1.04014 W_low=0.7406 (+1)
+  f=0.416   W_peak=1.011428 Pe_peak=6.2055e-02 A_peak=   9.979 W_fold=1.05283 W_low=0.5610 (+1)
+  f=0.5142  W_peak=1.011698 Pe_peak=9.4764e-02 A_peak=  12.330 W_fold=1.06888 W_low=0.5485 (+1)
+  f=0.6355  W_peak=1.011840 Pe_peak=1.4471e-01 A_peak=  15.236 W_fold=1.08994 W_low=0.5573 (PD)
+  f=0.7855  W_peak=1.011915 Pe_peak=2.2105e-01 A_peak=  18.830 W_fold=1.11712 W_low=0.5700 (PD)
+  f=0.9709  W_peak=1.011955 Pe_peak=3.3769e-01 A_peak=  23.273 W_fold=1.15218 W_low=0.6082 (+1)
+  f=1.2     W_peak=1.011975 Pe_peak=5.1584e-01 A_peak=  28.764 W_fold=1.19797 W_low=0.5878 (+1)
+xi=0.04
+  f=0.05    no interwell orbit
+  f=0.0618  no interwell orbit
+  f=0.0764  no interwell orbit
+  f=0.0944  no interwell orbit
+  f=0.1167  no interwell orbit
+  f=0.1442  W_peak=0.900000 Pe_peak=2.3254e-03 A_peak=   2.002 W_fold=0.90358 W_low=0.4583 (+1)
+  f=0.1783  W_peak=0.948992 Pe_peak=3.2651e-03 A_peak=   2.342 W_fold=0.95363 W_low=0.4629 (+1)
+  f=0.2203  W_peak=0.978347 Pe_peak=4.7416e-03 A_peak=   2.796 W_fold=0.98621 W_low=0.4984 (+1)
+  f=0.2723  W_peak=0.994050 Pe_peak=7.0540e-03 A_peak=   3.389 W_fold=1.00804 W_low=0.5061 (+1)
+  f=0.3366  W_peak=1.002137 Pe_peak=1.0629e-02 A_peak=   4.146 W_fold=1.02542 W_low=0.5127 (+1)
+  f=0.416   W_peak=1.006302 Pe_peak=1.6116e-02 A_peak=   5.095 W_fold=1.04238 W_low=0.5794 (+1)
+  f=0.5142  W_peak=1.008459 Pe_peak=2.4527e-02 A_peak=   6.279 W_fold=1.06138 W_low=0.5635 (+1)
+  f=0.6355  W_peak=1.009580 Pe_peak=3.7387e-02 A_peak=   7.748 W_fold=1.08407 W_low=0.5680 (+1)
+  f=0.7855  W_peak=1.010166 Pe_peak=5.7058e-02 A_peak=   9.569 W_fold=1.11274 W_low=0.6000 (+1)
+  f=0.9709  W_peak=1.010473 Pe_peak=8.7120e-02 A_peak=  11.823 W_fold=1.14856 W_low=0.5722 (PD)
+  f=1.2     W_peak=1.010635 Pe_peak=1.3305e-01 A_peak=  14.609 W_fold=1.19587 W_low=0.5877 (+1)
+Jump (fold) frequency of the quartic models, xi = 0.01
+  nominal  1.087 1.241 1.406 1.616 1.776 2.036 2.280 2.537 2.835 3.166 3.525 3.924 4.390 4.879 5.437 6.036
+  (a,h)    1.417 1.568 1.782 2.006 2.250 2.577 2.883 3.169 3.601 4.015 4.458 4.962 5.553 6.169 6.868 7.646
+  (a,k_w)  1.355 1.492 1.660 1.933 2.147 2.433 2.697 3.019 3.362 3.779 4.186 4.681 5.225 5.801 6.465 7.196
+  Taylor   nan nan nan 2.226 2.544 2.886 3.180 3.619 4.002 4.505 4.968 5.561 6.251 6.921 7.702 8.532

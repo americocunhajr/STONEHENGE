@@ -1,0 +1,7 @@
+f=0.15 fold with ds_max=0.2: 1.0183473
+f=0.15 fold with ds_max=0.1: 1.0183483
+f=1.55: ok=True fold=1.2745 peak=1.01229
+f=1.6: ok=True fold=1.2861 peak=1.01229
+f=1.65: ok=True fold=1.2977 peak=1.01229
+f=1.7: ok=True fold=nan peak=1.01229
+f=1.75: ok=True fold=nan peak=1.01229

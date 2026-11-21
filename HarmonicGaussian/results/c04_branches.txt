@@ -1,0 +1,8 @@
+duff   f=0.083  interwell: 270 points, Omega 0.300-1.794, max Pe 3.0574e-03;  intrawell: Omega 0.30-9.00, 560 of 596 points with min x > 0
+duff   f=0.15   interwell: 257 points, Omega 0.297-2.476, max Pe 5.3800e-03;  intrawell: Omega 0.30-9.00, 553 of 603 points with min x > 0
+duff   f=0.3    interwell: 736 points, Omega 0.319-3.558, max Pe 1.0573e-02;  intrawell: Omega 0.30-9.00, 541 of 590 points with min x > 0
+duff   f=0.6    interwell: 858 points, Omega 0.346-5.072, max Pe 2.0973e-02;  intrawell: Omega 0.35-9.00, 523 of 1646 points with min x > 0
+gauss  f=0.083  interwell: 180 points, Omega 0.286-1.004, max Pe 9.4695e-03;  intrawell: Omega 0.29-1.80, 87 of 106 points with min x > 0
+gauss  f=0.15   interwell: 836 points, Omega 0.305-1.018, max Pe 3.0495e-02;  intrawell: Omega 0.32-1.80, 72 of 447 points with min x > 0
+gauss  f=0.3    interwell: 507 points, Omega 0.325-1.038, max Pe 1.2168e-01;  intrawell: Omega 0.35-1.80, 61 of 469 points with min x > 0
+gauss  f=0.6    interwell: 441 points, Omega 0.300-1.085, max Pe 4.8655e-01;  intrawell: Omega 0.71-1.81, 41 of 159 points with min x > 0

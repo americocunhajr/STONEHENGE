@@ -1,0 +1,6 @@
+symmetric: I0 = 0.9537389186721272  quadrature 0.9537389186757071  turning point 1.2623883158679978
+xi=0.005: c=0.01125 c_M=0.01439 (electrical part 0.00439)  min f_M=0.0078 at W=0.680  f_M/c=0.69  R_min=0.541;  at W=1: f_M/c=0.79
+xi=0.01: c=0.02125 c_M=0.02439 (electrical part 0.00439)  min f_M=0.0132 at W=0.680  f_M/c=0.62  R_min=0.541;  at W=1: f_M/c=0.71
+xi=0.02: c=0.04125 c_M=0.04439 (electrical part 0.00439)  min f_M=0.0240 at W=0.680  f_M/c=0.58  R_min=0.541;  at W=1: f_M/c=0.67
+delta=0.1 loop right: saddle 0.2021 turning 1.1846 I0=0.5356 min f_M/c=0.46 at W=0.630; at W=1: 0.57
+delta=0.1 loop left: saddle 0.2021 turning -1.3260 I0=1.4485 min f_M/c=0.77 at W=0.705; at W=1: 0.86

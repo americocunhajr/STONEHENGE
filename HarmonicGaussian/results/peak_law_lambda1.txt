@@ -1,0 +1,8 @@
+lambda=1.0: sqrt(beff)=1.00623 c=0.03250 Omega_lin=1.00624
+   f=0.15: peak 1.00006 law 1.00041  Pe 1.3308e-01
+   f=0.3: peak 1.00550 law 1.00551  Pe 5.3186e-01
+   f=0.6: peak 1.00615 law 1.00615  Pe 2.1271e+00
+lambda=0.05: sqrt(beff)=1.01239 c=0.02125 Omega_lin=1.01229
+   f=0.15: peak 1.01061 law 1.01065  Pe 3.0495e-02
+   f=0.3: peak 1.01209 law 1.01209  Pe 1.2168e-01
+   f=0.6: peak 1.01227 law 1.01227  Pe 4.8655e-01

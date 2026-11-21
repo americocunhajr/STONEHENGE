@@ -1,0 +1,2 @@
+fold curve: 27 points, f from 1.3491 to 1.70738
+cusp: f_c=1.70763 Omega_c=1.31254 (max on curve 1.70738)

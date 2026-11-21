@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+data_quick/
+results_quick/
+figures/*.png
+*.aux
+*.log

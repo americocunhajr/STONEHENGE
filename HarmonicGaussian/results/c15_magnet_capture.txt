@@ -1,0 +1,25 @@
+magnet pair, well at 0.6347; capture from rest at Omega = 1
+  xi=0.01 f=0.18: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.01 f=0.20: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.01 f=0.22: captured 0.375 (within 1000: 0.375), median T 13.0, uncaptured interwell 0.000, uncaptured periodic 0.625
+  xi=0.01 f=0.24: captured 0.844 (within 1000: 0.844), median T 12.0, uncaptured interwell 0.000, uncaptured periodic 0.156
+  xi=0.01 f=0.26: captured 0.984 (within 1000: 0.984), median T 11.0, uncaptured interwell 0.000, uncaptured periodic 0.016
+  xi=0.01 f=0.28: captured 1.000 (within 1000: 1.000), median T 11.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.01 f=0.30: captured 1.000 (within 1000: 1.000), median T 11.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.01 f=0.32: captured 1.000 (within 1000: 1.000), median T 11.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.02 f=0.18: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.02 f=0.20: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.02 f=0.22: captured 0.031 (within 1000: 0.031), median T 22.5, uncaptured interwell 0.000, uncaptured periodic 0.969
+  xi=0.02 f=0.24: captured 0.688 (within 1000: 0.688), median T 7.0, uncaptured interwell 0.000, uncaptured periodic 0.312
+  xi=0.02 f=0.26: captured 0.984 (within 1000: 0.984), median T 6.0, uncaptured interwell 0.000, uncaptured periodic 0.016
+  xi=0.02 f=0.28: captured 1.000 (within 1000: 1.000), median T 7.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.02 f=0.30: captured 1.000 (within 1000: 1.000), median T 6.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.02 f=0.32: captured 1.000 (within 1000: 1.000), median T 6.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.03 f=0.18: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.03 f=0.20: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.03 f=0.22: captured 0.000 (within 1000: 0.000), median T -1.0, uncaptured interwell 0.000, uncaptured periodic 1.000
+  xi=0.03 f=0.24: captured 0.500 (within 1000: 0.500), median T 6.0, uncaptured interwell 0.000, uncaptured periodic 0.500
+  xi=0.03 f=0.26: captured 0.984 (within 1000: 0.984), median T 5.0, uncaptured interwell 0.000, uncaptured periodic 0.016
+  xi=0.03 f=0.28: captured 0.984 (within 1000: 0.984), median T 5.0, uncaptured interwell 0.000, uncaptured periodic 0.016
+  xi=0.03 f=0.30: captured 1.000 (within 1000: 1.000), median T 4.0, uncaptured interwell 0.000, uncaptured periodic 0.000
+  xi=0.03 f=0.32: captured 1.000 (within 1000: 1.000), median T 4.0, uncaptured interwell 0.000, uncaptured periodic 0.000

@@ -1,0 +1,32 @@
+== peak-gap law ratios (continuation gap / law)
+ xi=0.005 Wlin=1.012369  f/c>=10: 0.990-1.006 (f/c up to 107);  all: 0.990-1.054 (f/c from 4.4)
+ xi=0.01 Wlin=1.012295  f/c>=10: 0.989-1.010 (f/c up to 56);  all: 0.989-1.115 (f/c from 2.4)
+ xi=0.02 Wlin=1.011999  f/c>=10: 1.000-1.012 (f/c up to 29);  all: 1.000-1.106 (f/c from 1.9)
+ xi=0.04 Wlin=1.010815  f/c>=10: 1.004-1.007 (f/c up to 15);  all: 1.004-1.100 (f/c from 1.8)
+== peak power vs linear value at f=0.6355, xi=0.01
+ Pe 0.5458285274444737  chi*lam*kap*f^2/(2c^2*beff) 0.5455357720718278  A_p 29.58829175835757  f/(c sqrt beff) 29.54415738035059
+== shapes: peak spread and Pe spread; folds
+  f=0.05    peak spread 1.6e-02  Pe rel spread 1.9e-02  folds G/D/L 0.9613 0.9690 0.9775
+  f=0.0659  peak spread 4.4e-03  Pe rel spread 5.3e-03  folds G/D/L 0.9917 0.9929 0.9964
+  f=0.0868  peak spread 1.2e-03  Pe rel spread 1.9e-03  folds G/D/L 1.0052 1.0052 1.0068
+  f=0.1143  peak spread 3.9e-04  Pe rel spread 6.2e-04  folds G/D/L 1.0125 1.0125 1.0135
+  f=0.1506  peak spread 1.2e-04  Pe rel spread 1.9e-04  folds G/D/L 1.0184 1.0183 1.0193
+  f=0.1984  peak spread 3.4e-05  Pe rel spread 5.6e-05  folds G/D/L 1.0249 1.0248 1.0262
+  f=0.2614  peak spread 9.8e-06  Pe rel spread 1.6e-05  folds G/D/L 1.0332 1.0333 1.0354
+  f=0.3443  peak spread 2.7e-06  Pe rel spread 4.5e-06  folds G/D/L 1.0447 1.0451 1.0488
+  f=0.4536  peak spread 7.6e-07  Pe rel spread 1.3e-06  folds G/D/L 1.0612 1.0626 1.0691
+  f=0.5976  peak spread 2.4e-07  Pe rel spread 3.2e-07  folds G/D/L 1.0849 1.0890 1.1004
+  f=0.7873  peak spread 2.9e-07  Pe rel spread 7.0e-06  folds G/D/L 1.1181 1.1290 1.1508
+  f=1.0371  peak spread 5.2e-07  Pe rel spread 5.0e-05  folds G/D/L 1.1656 1.1937 nan
+  f=1.3663  peak spread 8.4e-07  Pe rel spread 1.8e-04  folds G/D/L 1.2339 nan nan
+  f=1.8     peak spread 1.9e-06  Pe rel spread 3.9e-04  folds G/D/L nan nan nan
+== offset delta=0.1 vs symmetric, f>=0.0868
+  max |dW_peak| 1.0e-05  max |dW_fold| 4.1e-04  max rel dPe 1.7e-05
+== hardening k3=1e-4: peak and fold at f>=0.4
+  f=0.4017 peak 1.0248 fold 1.0536
+  f=0.5256 peak 1.0335 fold 1.0349
+  f=0.6878 peak 1.0475 fold 1.0484
+  f=0.9 peak 1.0698 fold 1.0704
+== calibrated Duffing / Gaussian operating-frequency ratio, f>=0.09
+  min 1.92 max 8.43
+  spread among calibrations (max-min)/min: 0.15-0.20

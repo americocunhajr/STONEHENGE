@@ -1,0 +1,27 @@
+grid 181 x 121 (rows done), 64 starts per cell, horizon 1000 periods
+first row with any interwell start: f=0.0383 (previous 0.0369)
+first row with capture: f=0.1166 (previous 0.1122), Omega 0.850-0.865, max P1 0.141
+f=0.121  P1>=0.5 ('no run at 0.97', np.float64(0.865), np.float64(0.865))  P1>=0.95 None  at Omega=1: P1 0.00 sub 0.00 chaos 1.00 intra 0.00  max gain 10.04 at 0.865
+f=0.153  P1>=0.5 ('no run at 0.97', np.float64(0.785), np.float64(0.925))  P1>=0.95 ('no run at 0.97', np.float64(0.81), np.float64(0.92))  at Omega=1: P1 0.00 sub 0.00 chaos 1.00 intra 0.00  max gain 17.99 at 0.810
+f=0.200  P1>=0.5 (np.float64(0.705), np.float64(0.98))  P1>=0.95 (np.float64(0.76), np.float64(0.975))  at Omega=1: P1 0.00 sub 0.00 chaos 1.00 intra 0.00  max gain 25.23 at 0.490
+f=0.251  P1>=0.5 (np.float64(0.715), np.float64(1.02))  P1>=0.95 (np.float64(0.73), np.float64(1.02))  at Omega=1: P1 1.00 sub 0.00 chaos 0.00 intra 0.00  max gain 20.56 at 0.470
+f=0.304  P1>=0.5 (np.float64(0.745), np.float64(1.035))  P1>=0.95 (np.float64(0.75), np.float64(1.035))  at Omega=1: P1 1.00 sub 0.00 chaos 0.00 intra 0.00  max gain 14.87 at 0.485
+f=0.398  P1>=0.5 (np.float64(0.765), np.float64(1.05))  P1>=0.95 (np.float64(0.775), np.float64(1.05))  at Omega=1: P1 1.00 sub 0.00 chaos 0.00 intra 0.00  max gain 9.71 at 0.460
+f=0.607  P1>=0.5 (np.float64(0.79), np.float64(1.085))  P1>=0.95 (np.float64(0.845), np.float64(1.08))  at Omega=1: P1 1.00 sub 0.00 chaos 0.00 intra 0.00  max gain 5.83 at 0.420
+f=0.794  P1>=0.5 (np.float64(0.79), np.float64(1.115))  P1>=0.95 (np.float64(0.855), np.float64(1.11))  at Omega=1: P1 1.00 sub 0.00 chaos 0.00 intra 0.00  max gain 4.16 at 0.435
+f=1.000  P1>=0.5 (np.float64(0.8), np.float64(1.14))  P1>=0.95 (np.float64(0.84), np.float64(1.14))  at Omega=1: P1 1.00 sub 0.00 chaos 0.00 intra 0.00  max gain 3.37 at 1.295
+P1(Omega=1)>=0.5 first at f=0.2239 (previous 0.2154)
+cells with f>=0.1: max share period 2,3 interwell 1.00, cells where it exceeds 0.25: 1388 of 11041
+  largest subharmonic share at f=0.215 Omega=0.490
+chaotic interwell dominant (>0.5) in 3288 cells; f range 0.076-1.000
+max gain 54.0 at f=0.010 Omega=1.150
+f=0.050 gain>1 for Omega in [(np.float64(0.59), np.float64(0.59)), (np.float64(1.07), np.float64(1.3))]
+f=0.153 gain>1 for Omega in [(np.float64(0.51), np.float64(0.58)), (np.float64(0.76), np.float64(0.94)), (np.float64(1.09), np.float64(1.105)), (np.float64(1.115), np.float64(1.16)), (np.float64(1.18), np.float64(1.3))]
+f=0.304 gain>1 for Omega in [(np.float64(0.4), np.float64(1.01)), (np.float64(1.13), np.float64(1.3))]
+f=0.607 gain>1 for Omega in [(np.float64(0.4), np.float64(1.01)), (np.float64(1.11), np.float64(1.12)), (np.float64(1.13), np.float64(1.3))]
+settling median at Omega=1, f=0.2239: 335 periods; band-median over captured cells 167
+settling median at Omega=1, f=0.2326: 234 periods; band-median over captured cells 168
+settling median at Omega=1, f=0.2512: 204 periods; band-median over captured cells 168
+settling median at Omega=1, f=0.3043: 193 periods; band-median over captured cells 171
+settling median at Omega=1, f=0.5012: 191 periods; band-median over captured cells 181
+settling: 5th, 50th and 95th percentiles of the cell medians: [108. 178. 402.]

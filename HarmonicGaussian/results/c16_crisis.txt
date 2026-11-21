@@ -1,0 +1,12 @@
+f=0.12: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.14: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.16: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.17: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.18: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.19: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.2: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.21: captured 0.000 (by 1000: 0.000), median T -1, uncaptured interwell 1.000, periodic 0.000
+f=0.22: captured 1.000 (by 1000: 0.664), median T 623.0, uncaptured interwell 0.000, periodic 0.000
+f=0.24: captured 0.984 (by 1000: 0.984), median T 42.5, uncaptured interwell 0.016, periodic 0.000
+f=0.27: captured 1.000 (by 1000: 1.000), median T 18.5, uncaptured interwell 0.000, periodic 0.000
+f=0.3: captured 1.000 (by 1000: 1.000), median T 15.0, uncaptured interwell 0.000, periodic 0.000

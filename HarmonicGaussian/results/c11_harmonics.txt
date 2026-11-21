@@ -1,0 +1,7 @@
+A 3.0 closed form vs FFT (k=1,3,5,11): [(np.float64(-0.139437), np.float64(-0.139437)), (np.float64(0.316453), np.float64(0.316453)), (np.float64(-0.314035), np.float64(-0.314035)), (np.float64(0.047177), np.float64(0.047177))]
+A 10.0 closed form vs FFT (k=1,3,5,11): [(np.float64(-0.01137), np.float64(-0.01137)), (np.float64(0.033424), np.float64(0.033424)), (np.float64(-0.053491), np.float64(-0.053491)), (np.float64(0.092256), np.float64(0.092256))]
+Gauss f=0.15 ok=True A1=6.994  X3/X1=1.20e-03 pred 1.18e-03; X11/X1=1.61e-04 pred 1.60e-04; X21/X1=1.55e-05 pred 1.60e-05
+Gauss f=0.3 ok=True A1=13.970  X3/X1=1.51e-04 pred 1.51e-04; X11/X1=3.20e-05 pred 3.18e-05; X21/X1=1.10e-05 pred 1.10e-05
+Gauss f=0.6 ok=True A1=27.935  X3/X1=1.89e-05 pred 1.89e-05; X11/X1=4.46e-06 pred 4.46e-06; X21/X1=2.10e-06 pred 2.10e-06
+Duffing HB amplitude 3.6010212744167944
+Duffing (a,k_w) f=0.3 W=3.0 ok=True A1=3.508 X3/X1=4.90e-02 X5/X1=2.30e-03 X7/X1=1.08e-04 X11/X1=2.36e-07

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "harmonic-gaussian"
+version = "1.0.0"
+description = "Code and data for 'Harmonic-Gaussian vibration energy harvesting' (part of STONEHENGE)"
+authors = [{name = "Americo Cunha Jr"}, {name = "Piotr Wolszczak"}, {name = "Grzegorz Litak"}]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "numba>=0.59", "matplotlib>=3.8", "mpmath>=1.3"]
+license = {text = "MIT"}
+
+[tool.setuptools]
+packages = ["harmonic_gaussian"]

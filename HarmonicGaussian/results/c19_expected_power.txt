@@ -1,0 +1,7 @@
+104 frequencies from 0.4 to 1.4
+f=0.1: max expected power 6.3675e-04 at Omega=1.0100; fraction on periodic interwell orbits there 0.00
+f=0.15: max expected power 3.0659e-03 at Omega=0.9200; fraction on periodic interwell orbits there 0.83
+f=0.2: max expected power 9.2416e-03 at Omega=0.9775; fraction on periodic interwell orbits there 1.00
+f=0.25: max expected power 8.0369e-02 at Omega=1.0125; fraction on periodic interwell orbits there 0.95
+f=0.3: max expected power 1.2149e-01 at Omega=1.0125; fraction on periodic interwell orbits there 1.00
+f=0.4: max expected power 2.1610e-01 at Omega=1.0125; fraction on periodic interwell orbits there 1.00

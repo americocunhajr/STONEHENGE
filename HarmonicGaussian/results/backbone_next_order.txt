@@ -1,0 +1,6 @@
+A= 4.0  scaled residual -2.2735   prediction -2.04311   (HB-only coefficient -3M2/pi = -0.84628)
+A= 6.0  scaled residual -2.14408   prediction -2.04311   (HB-only coefficient -3M2/pi = -0.84628)
+A= 8.0  scaled residual -2.10048   prediction -2.04311   (HB-only coefficient -3M2/pi = -0.84628)
+A=10.0  scaled residual -2.08019   prediction -2.04311   (HB-only coefficient -3M2/pi = -0.84628)
+A=12.0  scaled residual -2.06907   prediction -2.04311   (HB-only coefficient -3M2/pi = -0.84628)
+Richardson extrapolation (error ~ A^-2): -2.043804696474378

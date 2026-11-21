@@ -1,0 +1,1 @@
+map of final states: 181 frequencies x 121 forcing levels, 64 starts per cell, horizon 1000 periods; summary in results/final_states_summary.txt

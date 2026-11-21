@@ -1,0 +1,3 @@
+basin f=0.21: 401 x 321 initial states, captured 0.6691, latest capture 48 periods
+basin f=0.225: 401 x 321 initial states, captured 1.0000, latest capture 2006 periods
+Poincare section at f=0.21: 200000 points

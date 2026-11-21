@@ -1,0 +1,12 @@
+f=0.216: captured 0.000, mean T -1, median -1
+f=0.2165: captured 0.000, mean T -1, median -1
+f=0.217: captured 0.000, mean T -1, median -1
+f=0.2175: captured 0.887, mean T 13881, median 10726
+f=0.218: captured 1.000, mean T 4977, median 3380
+f=0.219: captured 1.000, mean T 1771, median 1336
+f=0.22: captured 1.000, mean T 848, median 626
+f=0.222: captured 0.965, mean T 393, median 274
+f=0.225: captured 1.000, mean T 200, median 152
+f=0.23: captured 1.000, mean T 95, median 66
+f=0.24 other attractor, stroboscopic x: [-1.1918 -0.5127  0.5586 -1.1918 -0.5127  0.5586 -1.1918 -0.5127  0.5586
+ -1.1918 -0.5127  0.5586]

@@ -1,0 +1,12 @@
+xi=0.0056 c=0.0612 Wlin=1.02560 f=0.16: capture 0.000  A=0.767 Pe=0.0004 maxmu=0.8774 ok=True
+xi=0.0056 c=0.0612 Wlin=1.02560 f=0.2: capture 0.000  A=3.189 Pe=0.2590 maxmu=0.8803 ok=True
+xi=0.0056 c=0.0612 Wlin=1.02560 f=0.24: capture 0.836  A=3.884 Pe=0.3853 maxmu=0.8543 ok=True
+xi=0.0056 c=0.0612 Wlin=1.02560 f=0.28: capture 1.000  A=4.547 Pe=0.5288 maxmu=0.8437 ok=True
+xi=0.0056 c=0.0612 Wlin=1.02560 f=0.32: capture 1.000  A=5.202 Pe=0.6927 maxmu=0.8383 ok=True
+xi=0.0056 c=0.0612 Wlin=1.02560 f=0.36: capture 1.000  A=5.855 Pe=0.8778 maxmu=0.8352 ok=True
+xi=0.01 c=0.0700 Wlin=1.02556 f=0.16: capture 0.000  A=0.767 Pe=0.0004 maxmu=0.8538 ok=True
+xi=0.01 c=0.0700 Wlin=1.02556 f=0.2: capture 0.000  A=2.712 Pe=0.1865 maxmu=0.8978 ok=True
+xi=0.01 c=0.0700 Wlin=1.02556 f=0.24: capture 0.641  A=3.372 Pe=0.2898 maxmu=0.8471 ok=True
+xi=0.01 c=0.0700 Wlin=1.02556 f=0.28: capture 1.000  A=3.960 Pe=0.4006 maxmu=0.8294 ok=True
+xi=0.01 c=0.0700 Wlin=1.02556 f=0.32: capture 1.000  A=4.535 Pe=0.5259 maxmu=0.8208 ok=True
+xi=0.01 c=0.0700 Wlin=1.02556 f=0.36: capture 1.000  A=5.105 Pe=0.6669 maxmu=0.8160 ok=True

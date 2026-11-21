@@ -11,7 +11,7 @@ Constructs phase portraits and stroboscopic Poincaré sections for the bistable 
 
 ## Running and dependencies
 
-The original filename Main_PhasePortait is intentionally preserved despite its spelling. Run the main MATLAB script from this directory.
+The original filename `main_PhasePortait_Poincare.m` is preserved, including its historical spelling. Run the main MATLAB script from this directory.
 
 The existing numerical code was not modified or independently execution-tested as part of this documentation update.
 

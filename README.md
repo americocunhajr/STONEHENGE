@@ -33,7 +33,7 @@
 
 ### HarmonicGaussian module
 
-The [**HarmonicGaussian**](HarmonicGaussian/) Python module accompanies the research
+The [**HarmonicGaussian**](https://github.com/americocunhajr/STONEHENGE/tree/master/HarmonicGaussian) Python module accompanies the research
 *Harmonic-Gaussian vibration energy harvesting* (A. Cunha Jr, P. Wolszczak, and G. Litak).
 It includes the reusable nonlinear oscillator library, numerical continuation and Floquet
 analysis, basin and capture simulations, the 23 computation workflows, all ten manuscript
@@ -48,7 +48,7 @@ python -m pytest -q tests
 python run_all.py figures
 ```
 
-See the [HarmonicGaussian README](HarmonicGaussian/README.md) for dataset generation,
+See the [HarmonicGaussian README](https://github.com/americocunhajr/STONEHENGE/blob/master/HarmonicGaussian/README.md) for dataset generation,
 numerical checks, and the remaining reproduction commands.
 
 ### Usage

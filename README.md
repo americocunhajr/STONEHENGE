@@ -9,6 +9,7 @@
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Available modules](#available-modules)
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Reproducibility](#reproducibility)
@@ -29,6 +30,10 @@
 - Simulation, optimization, control, and visualization tools
 - Robust framework for numerical experimentation
 - Fully reproducible simulations
+
+### Available modules
+
+STONEHENGE provides 13 research-oriented modules for nonlinear vibration energy harvesting, covering time-series and spectral analysis, resonance and bifurcation diagrams, Poincaré sections, basins of attraction, chaos control, optimization, stochastic dynamics, global sensitivity analysis, and localized magnetic-barrier models. Explore the [module catalogue on the STONEHENGE website](https://stonehengesuite.org/modules/) or the [source-code module guide](STONEHENGE-1.0/README.md) to find the relevant tool and its documentation.
 
 ### Usage
 To get started with **STONEHENGE**, follow these steps:

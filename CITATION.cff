@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use STONEHENGE in research, please cite the accompanying Software Impacts article."
+title: "STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems"
+type: software
+repository-code: "https://github.com/americocunhajr/STONEHENGE"
+url: "https://stonehengesuite.org/"
+license: MIT
+authors:
+  - family-names: Norenberg
+    given-names: "João Pedro C. V."
+  - family-names: Peterson
+    given-names: "João Victor L. L."
+  - family-names: Lopes
+    given-names: "Vinicius G."
+  - family-names: Luo
+    given-names: Roberto
+  - family-names: "de la Roca"
+    given-names: Leonardo
+  - family-names: Pereira
+    given-names: Marcelo
+  - family-names: "Telles Ribeiro"
+    given-names: "José Geraldo"
+  - family-names: "Cunha Jr"
+    given-names: Americo
+preferred-citation:
+  type: article
+  title: "STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems"
+  authors:
+    - family-names: Norenberg
+      given-names: "João Pedro C. V."
+    - family-names: Peterson
+      given-names: "João Victor L. L."
+    - family-names: Lopes
+      given-names: "Vinicius G."
+    - family-names: Luo
+      given-names: Roberto
+    - family-names: "de la Roca"
+      given-names: Leonardo
+    - family-names: Pereira
+      given-names: Marcelo
+    - family-names: "Telles Ribeiro"
+      given-names: "José Geraldo"
+    - family-names: "Cunha Jr"
+      given-names: Americo
+  journal: "Software Impacts"
+  volume: 10
+  year: 2021
+  doi: "10.1016/j.simpa.2021.100161"

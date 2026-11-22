@@ -1,0 +1,37 @@
+{% if page.url == '/' or page.url == '/index.html' or page.name == 'README.md' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "@id": "https://stonehengesuite.org/#software",
+  "name": "STONEHENGE — Suite for Nonlinear Analysis of Energy Harvesting Systems",
+  "description": "Open-source MATLAB, C++ and Python software for nonlinear vibration energy harvesting: bistable dynamics, Poincaré maps, bifurcations, stochastic excitation, chaos control, global sensitivity, optimization and harmonic-Gaussian magnetic barriers.",
+  "url": "https://stonehengesuite.org/",
+  "codeRepository": "https://github.com/americocunhajr/STONEHENGE",
+  "programmingLanguage": ["MATLAB", "C++", "Python"],
+  "license": "https://github.com/americocunhajr/STONEHENGE/blob/master/LICENSE",
+  "isAccessibleForFree": true,
+  "citation": {
+    "@type": "ScholarlyArticle",
+    "name": "STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems",
+    "datePublished": "2021",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "Software Impacts"
+    },
+    "identifier": "https://doi.org/10.1016/j.simpa.2021.100161",
+    "url": "https://doi.org/10.1016/j.simpa.2021.100161"
+  },
+  "author": [
+    {"@type": "Person", "name": "João Pedro C. V. Norenberg"},
+    {"@type": "Person", "name": "João Victor L. L. Peterson"},
+    {"@type": "Person", "name": "Vinicius G. Lopes"},
+    {"@type": "Person", "name": "Roberto Luo"},
+    {"@type": "Person", "name": "Leonardo de la Roca"},
+    {"@type": "Person", "name": "Marcelo Pereira"},
+    {"@type": "Person", "name": "José Geraldo Telles Ribeiro"},
+    {"@type": "Person", "name": "Americo Cunha Jr"}
+  ]
+}
+</script>
+{% endif %}

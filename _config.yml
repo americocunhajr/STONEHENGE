@@ -7,3 +7,15 @@ highlighter: rouge
 
 kramdown:
   syntax_highlighter: rouge
+
+# Site metadata used by GitHub Pages / jekyll-seo-tag
+title: "STONEHENGE — Nonlinear Energy Harvesting Software"
+description: "Open-source MATLAB, C++ and Python tools for nonlinear vibration energy harvesting: bistable dynamics, bifurcations, chaos control, uncertainty quantification, optimization and harmonic-Gaussian magnetic barriers."
+url: "https://stonehengesuite.org"
+lang: en
+image: /logo/STONEHENGE.png
+
+# Generate an XML sitemap for the publicly available pages.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
